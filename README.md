@@ -12,7 +12,7 @@
 **ML/DL:** PyTorch, TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas  
 **NLP:** Hugging Face, LLM Fine-Tuning, RLHF, RAG  
 **CV & Robotics:** Computer Vision, Reinforcement Learning, ROS  
-**MLOps:** Docker, Git, Weights & Biases, Linux, FastAPI, Flask
+**MLOps & Deployment:** Docker, Git, Weights & Biases, Linux, FastAPI, Flask
 
 ### 📫 Connect
 📧 vinalgadhiya@gmail.com | [LinkedIn](https://www.linkedin.com/in/vinal-gadhiya-23b90b213/)
