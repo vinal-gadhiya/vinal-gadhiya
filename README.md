@@ -14,5 +14,5 @@ NLP: Hugging Face, LLM Fine-Tuning, RLHF, RAG
 CV & Robotics: Computer Vision, Reinforcement Learning, ROS
 MLOps: Docker, Git, Weights & Biases, Linux, FastAPI, Flask
 
-###📫 Connect
+### 📫 Connect
 📧 vinalgadhiya@gmail.com | [LinkedIn](https://www.linkedin.com/in/vinal-gadhiya-23b90b213/)
